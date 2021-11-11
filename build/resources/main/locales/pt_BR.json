@@ -1,0 +1,16 @@
+{
+    "label": "Gmail_Uts",
+    "description": "Fornece ações para operações Gmail_Uts.",
+
+    "StringMatches.label": "StringMatches",
+    "StringMatches.name": "StringMatches",
+    "StringMatches.description": "verifica se a string contem um padrao regex",
+    "StringMatches.node_label": "{{value}} tem o padrão {{pattern}}",
+    "StringMatches.return_description": "",
+    "StringMatches.value.label": "Valor:",
+    "StringMatches.value.description": "Exemplo: 23/12/1991",
+    "StringMatches.pattern.label": "Padrão(Regex):",
+    "StringMatches.pattern.description": "Exemplo: \\d*/\\d*/\\d*",
+
+
+}

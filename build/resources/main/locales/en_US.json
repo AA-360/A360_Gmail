@@ -1,0 +1,28 @@
+{
+	"label": "Gmail_Uts",
+	"description": "Provides actions for Gmail_Uts operations.",
+
+	"StringMatches.description": "String contains a pattern regex",
+	"StringMatches.node_label": "{{value}} matches {{pattern}}",
+	"StringMatches.return_description": "",
+	"StringMatches.value.label": "Value:",
+	"StringMatches.value.description": "Sample: 23/12/1991",
+	"StringMatches.pattern.label": "Pattern(Regex):",
+	"StringMatches.pattern.description": "Sample: \\d*/\\d*/\\d*",
+
+	"StringStartsWith.description": "check if string starts with the according value",
+	"StringStartsWith.node_label": "{{value}} starts with {{pattern}}",
+	"StringStartsWith.return_description": "",
+	"StringStartsWith.value.label": "Value:",
+	"StringStartsWith.value.description": "Sample: hello world!",
+	"StringStartsWith.pattern.label": "Starts with:",
+	"StringStartsWith.pattern.description": "Sample: hello",
+
+	"StringEndsWith.description": "check if string ends with the according value",
+	"StringEndsWith.node_label": "{{value}} ends with {{pattern}}",
+	"StringEndsWith.return_description": "",
+	"StringEndsWith.value.label": "Value:",
+	"StringEndsWith.value.description": "Sample: hello world!",
+	"StringEndsWith.pattern.label": "Ends with:",
+	"StringEndsWith.pattern.description": "Sample: world!"
+}
