@@ -10,7 +10,6 @@
     "StringMatches.value.label": "Valor:",
     "StringMatches.value.description": "Exemplo: 23/12/1991",
     "StringMatches.pattern.label": "Padrão(Regex):",
-    "StringMatches.pattern.description": "Exemplo: \\d*/\\d*/\\d*",
-
+    "StringMatches.pattern.description": "Exemplo: \\d*/\\d*/\\d*"
 
 }
